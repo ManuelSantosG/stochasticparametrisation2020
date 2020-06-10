@@ -140,7 +140,7 @@ where $\delta_k$ indicates the $k$th order response and the subscript $\epsilon$
 \end{equation}
 Now, by letting $\tilde{\eta}(t,\yy_0)= e^{t\LLL_0}\CCC_{\yy}^{\xx}(\yy_0)$, we find that in order for the statistics to agree up to second order in $\epsilon$, we have to force that the parametrised noisy fluctuations satify the following conditions on the first two moments:
 \begin{align}\label{moments1}
-	\bigg \langle \tilde{\eta}(t,\yy_0) \bigg \rangle &= 0 \\\label{moments2}
+	\bigg \langle \tilde{\eta}(t,\yy_0) \bigg \rangle &= \int \mu_{\yy}\left(\yy_0\right)\CCC_{\yy}^{\xx}\left(\yy_0 \right) \\\label{moments2}
 	\bigg \langle \tilde{\eta}(t+s,\yy_0)\tilde{\eta}(s,\yy_0) \bigg \rangle &= \int \mu_{\yy}(\dd \yy_0) e^{(t+s)\LLL_0}\CCC_{\yy}^{\xx}\left(\yy_0 \right)e^{t\LLL_0}\CCC_{\yy}^{\xx}\left(\yy_0 \right).
 \end{align}
 As a result, any stochastic noise $\eta(t)$ that satisfies these conditions will be fit for parametrising the fluctuations in the $\yy$-dynamics due to the lack of knowledge in the initial condition. With regards the memory term, we neglect any $\epsilon$-correction to the statistics since, by default, memory effects are of order $\epsilon ^2$ already. Thus, we have:
