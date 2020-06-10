@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.9)  10 JUN 2020 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.9)  10 JUN 2020 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1687,53 +1687,50 @@ tic_term.png (PNG copy)> <./plots/l84l63/emr_residuals_sim.png (PNG copy)> <./p
 lots/l84l63/xl63.png (PNG copy)> <./plots/l84l63/ergodicity_spectrum_residuals.
 png (PNG copy)> <./plots/l84l63/ergodicity_rates_residuals.png (PNG copy)> <./p
 lots/l84l63/acf_residuals.png (PNG copy)>]
-
-LaTeX Warning: Reference `errors' on page 46 undefined on input line 1172.
-
 [46 <./plots/l84l63/acf_res_t5.png (PNG copy)> <./plots/l84l63/acf_res_t1.png (
-PNG copy)>] <plots/l84l63/pdfxl84025.png, id=632, 1124.2pt x 843.15pt>
+PNG copy)>] <plots/l84l63/pdfxl84025.png, id=628, 1124.2pt x 843.15pt>
 File: plots/l84l63/pdfxl84025.png Graphic file (type png)
 
 <use plots/l84l63/pdfxl84025.png>
 Package pdftex.def Info: plots/l84l63/pdfxl84025.png used on input line 1213.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/pdfyl84025.png, id=633, 1124.2pt x 843.15pt>
+<plots/l84l63/pdfyl84025.png, id=629, 1124.2pt x 843.15pt>
 File: plots/l84l63/pdfyl84025.png Graphic file (type png)
 
 <use plots/l84l63/pdfyl84025.png>
 Package pdftex.def Info: plots/l84l63/pdfyl84025.png used on input line 1219.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/pdfzl84025.png, id=634, 1124.2pt x 843.15pt>
+<plots/l84l63/pdfzl84025.png, id=630, 1124.2pt x 843.15pt>
 File: plots/l84l63/pdfzl84025.png Graphic file (type png)
 
 <use plots/l84l63/pdfzl84025.png>
 Package pdftex.def Info: plots/l84l63/pdfzl84025.png used on input line 1224.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
  [47]
-<plots/l84l63/acfxl84025.png, id=639, 1124.2pt x 843.15pt>
+<plots/l84l63/acfxl84025.png, id=637, 1124.2pt x 843.15pt>
 File: plots/l84l63/acfxl84025.png Graphic file (type png)
 
 <use plots/l84l63/acfxl84025.png>
 Package pdftex.def Info: plots/l84l63/acfxl84025.png used on input line 1235.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/acfyl84025.png, id=640, 1124.2pt x 843.15pt>
+<plots/l84l63/acfyl84025.png, id=638, 1124.2pt x 843.15pt>
 File: plots/l84l63/acfyl84025.png Graphic file (type png)
 
 <use plots/l84l63/acfyl84025.png>
 Package pdftex.def Info: plots/l84l63/acfyl84025.png used on input line 1241.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/acfzl84025.png, id=641, 1124.2pt x 843.15pt>
+<plots/l84l63/acfzl84025.png, id=639, 1124.2pt x 843.15pt>
 File: plots/l84l63/acfzl84025.png Graphic file (type png)
 
 <use plots/l84l63/acfzl84025.png>
 Package pdftex.def Info: plots/l84l63/acfzl84025.png used on input line 1246.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/emr_diagnostic_025z.png, id=642, 1124.2pt x 843.15pt>
+<plots/l84l63/emr_diagnostic_025z.png, id=640, 1124.2pt x 843.15pt>
 File: plots/l84l63/emr_diagnostic_025z.png Graphic file (type png)
 
 <use plots/l84l63/emr_diagnostic_025z.png>
@@ -1744,42 +1741,42 @@ e 1260.
 (PNG copy)> <./plots/l84l63/pdfzl84025.png (PNG copy)> <./plots/l84l63/acfxl840
 25.png (PNG copy)> <./plots/l84l63/acfyl84025.png (PNG copy)> <./plots/l84l63/a
 cfzl84025.png (PNG copy)>]
-<plots/l84l63/pdfx025z.png, id=649, 1124.2pt x 843.15pt>
+<plots/l84l63/pdfx025z.png, id=647, 1124.2pt x 843.15pt>
 File: plots/l84l63/pdfx025z.png Graphic file (type png)
 
 <use plots/l84l63/pdfx025z.png>
 Package pdftex.def Info: plots/l84l63/pdfx025z.png used on input line 1269.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/pdfy025z.png, id=650, 1124.2pt x 843.15pt>
+<plots/l84l63/pdfy025z.png, id=648, 1124.2pt x 843.15pt>
 File: plots/l84l63/pdfy025z.png Graphic file (type png)
 
 <use plots/l84l63/pdfy025z.png>
 Package pdftex.def Info: plots/l84l63/pdfy025z.png used on input line 1274.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/pdfz025z.png, id=651, 1124.2pt x 843.15pt>
+<plots/l84l63/pdfz025z.png, id=649, 1124.2pt x 843.15pt>
 File: plots/l84l63/pdfz025z.png Graphic file (type png)
 
 <use plots/l84l63/pdfz025z.png>
 Package pdftex.def Info: plots/l84l63/pdfz025z.png used on input line 1279.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/acfx025z.png, id=652, 1124.2pt x 843.15pt>
+<plots/l84l63/acfx025z.png, id=650, 1124.2pt x 843.15pt>
 File: plots/l84l63/acfx025z.png Graphic file (type png)
 
 <use plots/l84l63/acfx025z.png>
 Package pdftex.def Info: plots/l84l63/acfx025z.png used on input line 1290.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/acfy025z.png, id=653, 1124.2pt x 843.15pt>
+<plots/l84l63/acfy025z.png, id=651, 1124.2pt x 843.15pt>
 File: plots/l84l63/acfy025z.png Graphic file (type png)
 
 <use plots/l84l63/acfy025z.png>
 Package pdftex.def Info: plots/l84l63/acfy025z.png used on input line 1295.
 (pdftex.def)             Requested size: 141.61081pt x 106.20401pt.
 
-<plots/l84l63/acfz025z.png, id=654, 1124.2pt x 843.15pt>
+<plots/l84l63/acfz025z.png, id=652, 1124.2pt x 843.15pt>
 File: plots/l84l63/acfz025z.png Graphic file (type png)
 
 <use plots/l84l63/acfz025z.png>
@@ -1789,28 +1786,28 @@ Package pdftex.def Info: plots/l84l63/acfz025z.png used on input line 1300.
 5z.png (PNG copy)> <./plots/l84l63/pdfy025z.png (PNG copy)> <./plots/l84l63/pdf
 z025z.png (PNG copy)> <./plots/l84l63/acfx025z.png (PNG copy)> <./plots/l84l63/
 acfy025z.png (PNG copy)> <./plots/l84l63/acfz025z.png (PNG copy)>] <plots/l84l6
-3/pdf_x_1.png, id=667, 562.2606pt x 421.575pt>
+3/pdf_x_1.png, id=665, 562.2606pt x 421.575pt>
 File: plots/l84l63/pdf_x_1.png Graphic file (type png)
 
 <use plots/l84l63/pdf_x_1.png>
 Package pdftex.def Info: plots/l84l63/pdf_x_1.png used on input line 1328.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/pdf_y_1.png, id=668, 562.2606pt x 421.575pt>
+<plots/l84l63/pdf_y_1.png, id=666, 562.2606pt x 421.575pt>
 File: plots/l84l63/pdf_y_1.png Graphic file (type png)
 
 <use plots/l84l63/pdf_y_1.png>
 Package pdftex.def Info: plots/l84l63/pdf_y_1.png used on input line 1334.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/pdf_z_1.png, id=669, 562.2606pt x 421.575pt>
+<plots/l84l63/pdf_z_1.png, id=667, 562.2606pt x 421.575pt>
 File: plots/l84l63/pdf_z_1.png Graphic file (type png)
 
 <use plots/l84l63/pdf_z_1.png>
 Package pdftex.def Info: plots/l84l63/pdf_z_1.png used on input line 1340.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
  [50]
-<plots/l84l63/poincare_xy_u.png, id=678, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_xy_u.png, id=676, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_xy_u.png Graphic file (type png)
 
 <use plots/l84l63/poincare_xy_u.png>
@@ -1818,7 +1815,7 @@ Package pdftex.def Info: plots/l84l63/poincare_xy_u.png used on input line 1350
 .
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_xy_c.png, id=679, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_xy_c.png, id=677, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_xy_c.png Graphic file (type png)
 
 <use plots/l84l63/poincare_xy_c.png>
@@ -1826,7 +1823,7 @@ Package pdftex.def Info: plots/l84l63/poincare_xy_c.png used on input line 1356
 .
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_xy_p.png, id=680, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_xy_p.png, id=678, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_xy_p.png Graphic file (type png)
 
 <use plots/l84l63/poincare_xy_p.png>
@@ -1834,7 +1831,7 @@ Package pdftex.def Info: plots/l84l63/poincare_xy_p.png used on input line 1362
 .
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_yz_u.png, id=681, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_yz_u.png, id=679, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_yz_u.png Graphic file (type png)
 
 <use plots/l84l63/poincare_yz_u.png>
@@ -1842,7 +1839,7 @@ Package pdftex.def Info: plots/l84l63/poincare_yz_u.png used on input line 1372
 .
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_yz_c.png, id=682, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_yz_c.png, id=680, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_yz_c.png Graphic file (type png)
 
 <use plots/l84l63/poincare_yz_c.png>
@@ -1850,7 +1847,7 @@ Package pdftex.def Info: plots/l84l63/poincare_yz_c.png used on input line 1378
 .
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_yz_p.png, id=683, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_yz_p.png, id=681, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_yz_p.png Graphic file (type png)
 
 <use plots/l84l63/poincare_yz_p.png>
@@ -1858,28 +1855,28 @@ Package pdftex.def Info: plots/l84l63/poincare_yz_p.png used on input line 1384
 .
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/pdf_x_5.png, id=684, 562.2606pt x 421.575pt>
+<plots/l84l63/pdf_x_5.png, id=682, 562.2606pt x 421.575pt>
 File: plots/l84l63/pdf_x_5.png Graphic file (type png)
 
 <use plots/l84l63/pdf_x_5.png>
 Package pdftex.def Info: plots/l84l63/pdf_x_5.png used on input line 1395.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/pdf_y_5.png, id=685, 562.2606pt x 421.575pt>
+<plots/l84l63/pdf_y_5.png, id=683, 562.2606pt x 421.575pt>
 File: plots/l84l63/pdf_y_5.png Graphic file (type png)
 
 <use plots/l84l63/pdf_y_5.png>
 Package pdftex.def Info: plots/l84l63/pdf_y_5.png used on input line 1401.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/pdf_z_5.png, id=686, 562.2606pt x 421.575pt>
+<plots/l84l63/pdf_z_5.png, id=684, 562.2606pt x 421.575pt>
 File: plots/l84l63/pdf_z_5.png Graphic file (type png)
 
 <use plots/l84l63/pdf_z_5.png>
 Package pdftex.def Info: plots/l84l63/pdf_z_5.png used on input line 1407.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_xy_u5.png, id=687, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_xy_u5.png, id=685, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_xy_u5.png Graphic file (type png)
 
 <use plots/l84l63/poincare_xy_u5.png>
@@ -1887,7 +1884,7 @@ Package pdftex.def Info: plots/l84l63/poincare_xy_u5.png used on input line 141
 7.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_xy_c5.png, id=688, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_xy_c5.png, id=686, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_xy_c5.png Graphic file (type png)
 
 <use plots/l84l63/poincare_xy_c5.png>
@@ -1895,7 +1892,7 @@ Package pdftex.def Info: plots/l84l63/poincare_xy_c5.png used on input line 142
 3.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_xy_p5.png, id=689, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_xy_p5.png, id=687, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_xy_p5.png Graphic file (type png)
 
 <use plots/l84l63/poincare_xy_p5.png>
@@ -1909,7 +1906,7 @@ care_xy_p.png (PNG copy)> <./plots/l84l63/poincare_yz_u.png (PNG copy)> <./plot
 s/l84l63/poincare_yz_c.png (PNG copy)> <./plots/l84l63/poincare_yz_p.png (PNG c
 opy)> <./plots/l84l63/pdf_x_5.png (PNG copy)> <./plots/l84l63/pdf_y_5.png (PNG 
 copy)> <./plots/l84l63/pdf_z_5.png (PNG copy)>] <plots/l84l63/poincare_yz_u5.pn
-g, id=699, 562.2606pt x 421.575pt>
+g, id=697, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_yz_u5.png Graphic file (type png)
 
 <use plots/l84l63/poincare_yz_u5.png>
@@ -1917,7 +1914,7 @@ Package pdftex.def Info: plots/l84l63/poincare_yz_u5.png used on input line 143
 9.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_yz_c5.png, id=700, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_yz_c5.png, id=698, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_yz_c5.png Graphic file (type png)
 
 <use plots/l84l63/poincare_yz_c5.png>
@@ -1925,7 +1922,7 @@ Package pdftex.def Info: plots/l84l63/poincare_yz_c5.png used on input line 144
 5.
 (pdftex.def)             Requested size: 141.61081pt x 106.17827pt.
 
-<plots/l84l63/poincare_yz_p5.png, id=701, 562.2606pt x 421.575pt>
+<plots/l84l63/poincare_yz_p5.png, id=699, 562.2606pt x 421.575pt>
 File: plots/l84l63/poincare_yz_p5.png Graphic file (type png)
 
 <use plots/l84l63/poincare_yz_p5.png>
@@ -1944,17 +1941,13 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1459.
 
 Package rerunfilecheck Info: File `progress_report.out' has not changed.
 (rerunfilecheck)             Checksum: 0ABDA618AD815E53EE32CE0B869E2A1A;1145.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1459.
  ) 
 Here is how much of TeX's memory you used:
- 17539 strings out of 492995
- 291195 string characters out of 6132705
+ 17538 strings out of 492995
+ 291194 string characters out of 6132705
  382838 words of memory out of 5000000
- 20453 multiletter control sequences out of 15000+600000
+ 20452 multiletter control sequences out of 15000+600000
  18240 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,16n,96p,1479b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1979,10 +1972,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2017/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on progress_report.pdf (52 pages, 6081855 bytes).
+Output written on progress_report.pdf (52 pages, 6081371 bytes).
 PDF statistics:
- 830 PDF objects out of 1000 (max. 8388607)
- 660 compressed objects within 7 object streams
+ 828 PDF objects out of 1000 (max. 8388607)
+ 658 compressed objects within 7 object streams
  263 named destinations out of 1000 (max. 500000)
  577 words of extra memory for PDF output out of 10000 (max. 10000000)
 

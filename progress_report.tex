@@ -177,7 +177,7 @@ Again, this is exact in $\epsilon$. Next, taking averages with respect to $\mu_{
 \begin{align}
 \mathcal{K}(t,s,\xx)&=  \int \mu _{\yy_0}(\dd \yy)e^{s\LLL} \CCC^{\yy}(\xx) \cdot \partial _{\yy}e^{(t-s)\LLL_0}\CCC^{\xx}\left(\yy_0 \right).
 \end{align}
-Hence, the yielding parametrisation is exact in $\epsilon$. The only assumption taken here is that the statistics in the $\yy$ variables have reached a steady state. 
+Hence, the yielding parametrisation is exact in $\epsilon$. The only assumption taken here is that the statistics in the $\yy$ variables have reached a steady state according to the unperturbed system. 
 
 \subsection{Markovian Representation}
 
@@ -276,7 +276,7 @@ C_{f,g}(t) = \int _{0}^tf\cdot e^{\LLL t}g\dd \mu = \int _{0}^te^{\mathcal{L}^{\
 where dulity is indicated by the $\ast$ superscript. The duality of the above mentioned operators is clear from this formula. The right-hand side of the Eq.~(\ref{spectral correlations}) consists of a linear combitation of exponential terms whose coefficients are calculated by the projecting $f$ and $g$ onto their respective eigenspaces. Such coefficient puts a weight on each exponential function and it can be exceedingly large if the Koopman operator is very non-normal \cite{trefethen2005}. 
 
 When considering projected or reduced phase spaces, one can show (see Theorem 2 in \cite{chekroun2019c}) that there exists a family of Markov operators $\{\mathcal{T}_t\}_{t\geq 0}$ which satisfies:
-\begin{equation}\label{criterion}
+\begin{equation}\label{criterion memory}
 \int _{0}^tf\cdot \mathcal{T}_tg\dd \mu_{\xx} = \int _{0}^t[f\circ \pi_{\xx}]\cdot e^{\LLL t}[g\circ \pi _{\xx}] \dd \mu = C_{f\circ \pi_{\xx},g \circ \pi_{\xx}}(t),
 \end{equation}
 for every $t\geq0$ and $\pi_{\xx}$ is the canonical projection. However, due to the projection the semigroup is lost, i.e., $\mathcal{T}_{s}\mathcal{T}_t\neq \mathcal{T}_{t+s}$. From this reasoning, we are able to establish a criterion for the need of determining a memory contribution when performing the parametrisation. Namely, if
@@ -1169,7 +1169,7 @@ The question now is: does the residual emulated by the EMR resemble the statisti
 
 The target of the parametrisations presented here is to be able to reproduce the climatology of the system without needing to integrate of the full dynamics. Measuring differences in the climatology boils down to measuring differences between the attractors and invariant measures of the different models. For simplicity we shall take the Kolmogorov-Smirnov statistic of the projected invariant measures of the system onto the main coordinates $X$, $Y$ and $Z$. To attribute a score to the methodologies we calculate the Kolmogorov-Smirnov statistics of the obtained climatologies with respect to the data coming from the whole model. The Kolmogorov-Smirnov statistic does not measure distances in a strict sense. Hence, the Wasserstein distance \cite{villani} is precisely defined for this purpose and has been suggested as a skill-measuring tool in the context of dynamical systems and climatology \cite{robin2017, Vissio2018b}. 
 
-To assess the performances of the different methods, we ran ten integrations of the dynamics initialised with random intial conditions and applying a spinup of 10 years. The model was integrated for 100 years with a time-step of 0.005 time-units.  For each integration, the climatologies were saved and their errors were calculated. The results are reported on Fig.~(\ref{errors}). On tables \ref{tablemoments1} and \ref{tablemoments2} and we observe that the first two moments are well approximated with the WL approach whereas the EMR methodology presents higher errors.
+To assess the performances of the different methods, we ran ten integrations of the dynamics initialised with random intial conditions and applying a spinup of 10 years. The model was integrated for 100 years with a time-step of 0.005 time-units.
 \begin{table}[H]
 	\centering
 	\begin{tabular}{l | ccc}
