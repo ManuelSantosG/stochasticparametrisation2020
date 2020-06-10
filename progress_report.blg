@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: progress_report.aux
+The style file: abbrv.bst
+Database file #1: progress_report.bib
+Warning--empty note in chekroun2019c
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            637 strings with 7013 characters,
+and the built_in function-call counts, 6449 in all, are:
+= -- 641
+> -- 287
+< -- 1
++ -- 113
+- -- 92
+* -- 471
+:= -- 1110
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 104
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 230
+empty$ -- 512
+format.name$ -- 92
+if$ -- 1306
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 25
+newline$ -- 108
+num.names$ -- 42
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 88
+quote$ -- 0
+skip$ -- 148
+stack$ -- 0
+substring$ -- 439
+swap$ -- 21
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 74
+warning$ -- 1
+while$ -- 69
+width$ -- 23
+write$ -- 228
+(There was 1 warning)

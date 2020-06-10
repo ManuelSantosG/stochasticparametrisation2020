@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Weak-Coupling Limit Parametrisation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{The Additive Coupling Case}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Markovian Representation}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Preliminary Example}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Memory Effects}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Multilevel Systems and Empirical Model Reduction}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Empirical Model Reduction}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Results}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Reduced time-scale separation }{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Memory Effects}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{EMR outputs}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.4}{Convergence}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.5}{Model Coefficients and Memory Terms}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.6}{Residuals}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.7}{Comparison}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.8}{Non-trivial mean field forcing}{section.4}% 17
